@@ -1,0 +1,56 @@
+T° Annuelle minimale mesurée/calculée: -21.45°C / -37.95°C
+T° Annuelle maximale mesurée/calculée: 28.1°C / 33.79°C
+Moyenne annuelle: 7.97°C / 3.9°C
+Nombres de jours avec refroidissement éolien inférieur à -20°C: 52
+Nombres de jours avec refroidissement éolien inférieur à -25°C: 33
+Nombres de jours avec réchauffement humidex supérieur à 25°C: 45
+Nombres de jours avec réchauffement humidex supérieur à 30°C: 8
+
+Janvier
+    Minimale mesurée/calculée: -19.3 / -34.67
+    Maximale mesurée/calculée: -1.15 / -9.68
+    Moyenne mesurée/calculé: -11.45 / -23.78
+Février
+    Minimale mesurée/calculée: -21.45 / -37.95
+    Maximale mesurée/calculée: -7.5 / -18.28
+    Moyenne mesurée/calculé: -14.4 / -27.71
+Mars
+    Minimale mesurée/calculée: -12.2 / -24.47
+    Maximale mesurée/calculée: 7.35 / 1.63
+    Moyenne mesurée/calculé: -3.37 / -12.23
+Avril
+    Minimale mesurée/calculée: -2.25 / -10.03
+    Maximale mesurée/calculée: 16.35 / 16.35
+    Moyenne mesurée/calculé: 6.88 / 2.51
+Mai
+    Minimale mesurée/calculée: 8.8 / 6.19
+    Maximale mesurée/calculée: 24.5 / 28.51
+    Moyenne mesurée/calculé: 17.5 / 17.96
+Juin
+    Minimale mesurée/calculée: 10.9 / 10.51
+    Maximale mesurée/calculée: 23.5 / 29.17
+    Moyenne mesurée/calculé: 18.49 / 19.14
+Juillet
+    Minimale mesurée/calculée: 18.3 / 18.3
+    Maximale mesurée/calculée: 28.1 / 33.79
+    Moyenne mesurée/calculé: 22.59 / 24.27
+Août
+    Minimale mesurée/calculée: 18.1 / 18.1
+    Maximale mesurée/calculée: 28.0 / 32.88
+    Moyenne mesurée/calculé: 22.11 / 23.81
+Septembre
+    Minimale mesurée/calculée: 11.2 / 9.08
+    Maximale mesurée/calculée: 27.3 / 31.67
+    Moyenne mesurée/calculé: 19.89 / 20.98
+Octobre
+    Minimale mesurée/calculée: 0.95 / -6.36
+    Maximale mesurée/calculée: 19.05 / 19.05
+    Moyenne mesurée/calculé: 8.67 / 4.77
+Novembre
+    Minimale mesurée/calculée: -6.25 / -15.55
+    Maximale mesurée/calculée: 14.45 / 11.88
+    Moyenne mesurée/calculé: 5.29 / -0.27
+Décembre
+    Minimale mesurée/calculée: -10.3 / -21.38
+    Maximale mesurée/calculée: 10.65 / 7.06
+    Moyenne mesurée/calculé: 1.87 / -4.88
